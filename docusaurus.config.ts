@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Hi, I\'m Vipin',
-  tagline: 'I am a skilled software engineer at Seamless Fintech Innovations with expertise in Angular, Laravel, React, GoLang, Node.js, Express, MySQL, AWS, JavaScript, TypeScript, and Python. I specialize in developing innovative solutions for complex problems, ensuring efficient and effective results for web and software applications.',
+  tagline: 'I am a skilled software engineer at Seamless Fintech Innovations with expertise in Angular, Laravel, React, GoLang, Node.js & Python.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
